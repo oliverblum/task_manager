@@ -1,4 +1,4 @@
-# Task manager project
+# Task manager
 This project demonstrates how to reading/write text files with Python and incorporate this into an application that users can use to track their assigned tasks.
 
 ### user.txt
