@@ -1,5 +1,5 @@
 # Task manager
-This project demonstrates how to reading/write text files with Python and incorporate this into an application that users can use to track their assigned tasks.
+This project demonstrates how to read/write text files with Python and incorporate this into an application that users can use to track their assigned tasks.
 
 #### user.txt
 contains a list of users and passwords
