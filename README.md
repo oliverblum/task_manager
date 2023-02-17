@@ -5,7 +5,7 @@ This project demonstrates how to reading/write text files with Python and incorp
 contains a list of users and passwords
 
 #### tasks.txt
-contains a list of tasks and which user it is assigned to along with due dates
+contains a list of tasks, the assigned task owner, due date
 
 #### task_manager.py
 contains the code where users can interact with the text files to add new tasks, assign them to users, mark them as complete etc.
