@@ -1,0 +1,12 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+bob, fix roof, go and fix right corner of roof, 01 Jan 2023, 16 Dec 2022, No
+admin, register alice as new user, new employee alice needs new tasks, 14 Dec 2022, 16 Dec 2022, No
+alice, study task 1, alice needs to read introduction books, 15 Dec 2023, 16 Dec 2022, No
+alice, give bob a kiss, alice lost a bet and owes bob a kiss, 15 Dec 2022, 16 Dec 2022, No
+bob, repair door, bob needs to order new door handle and install it, 27 Dec 2022, 16 Dec 2022, Yes
+alice, cuddle the baby, take a break and cuddle the baby, 26 Jan 2023, 16 Dec 2022, Yes
+test, write code to delete users, bob left company but we can not delete him, 25 Feb 2023, 16 Dec 2022, No
+admin, write modular code using functions, create functions to make code modular, 20 Jan 2022, 20 Dec 2022, Yes
+alice, paint walls, paint kitchen green, 01 Jan 2023, 20 Dec 2022, No
+emil, Kase kaufen, In die Migros gehen und Kase kaufen, 11 Jan 2023, 11 Jan 2023, Yes
